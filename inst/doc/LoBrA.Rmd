@@ -1,0 +1,12 @@
+---
+title: "LoBrA: A Package for Modeling Longitudinal Breath Data"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+description: >
+  R package for modeling of longitudinal breath data (Longitudinal Breath Analysis). Novel metabolomics technologies paved the way for longitudinal analysis of exhaled air and online monitoring of fast progressing diseases. 
+  This package implements an analysis approach of longitudinal data from technologies, such as ion mobility spectrometry of human exhaled air and demonstrates how including temporal signals increases the statistical power in biomarker identification.
+vignette: >
+  %\VignetteIndexEntry{LoBrA: A Package for Modeling Longitudinal Breath Data}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\usepackage[utf8]{inputenc}
+--- 
